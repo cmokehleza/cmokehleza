@@ -74,4 +74,4 @@ I'm open to **freelance work**, **collaborations**, and **full-time opportunitie
 
 ---
 
-*Building South Africa's digital future, one commit at a time.* 🇿🇦
+END
