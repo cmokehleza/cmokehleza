@@ -28,7 +28,7 @@ Alongside development, I'm pursuing a Qualification in ** Electrical Engineering
 
 ## 🚀 Featured Projects
 
-### [PostApply](https://postapplyv3.codecanvas.co.za/) — Recruitment SaaS
+### [PostApply](https://apply44.codecanvas.co.za/) — Recruitment SaaS
 > Recruitment software for teams — custom application forms, candidate dashboards, interview scheduling, email automation, hiring analytics, and GDPR-compliant enterprise security. Plans starting free in ZAR.
 
 `Recruitment` `Form Builder` `Candidate Management` `Vercel` `Email Automation` `GDPR`
