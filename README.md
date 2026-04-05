@@ -10,7 +10,7 @@
 
 I'm a South African web developer from **Newcastle, KwaZulu-Natal** 🇿🇦, building clean, fast, and visually sharp digital products. I work under **Eclipse Softworks** and run my personal dev platform at **codecanvas.co.za**.
 
-Alongside development, I'm pursuing a Qualification in ** Electrical Engineering** — which means I bring engineering-level systems thinking and analytical rigour to every product I build.
+Alongside development, I'm pursuing a Qualification in ** Electrical Engineering**  which means I bring engineering-level systems thinking and analytical rigour to every product I build.
 
 ---
 
@@ -26,50 +26,50 @@ Alongside development, I'm pursuing a Qualification in ** Electrical Engineering
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### [PostApply](https://apply44.codecanvas.co.za/) — Recruitment SaaS
-> Recruitment software for teams — custom application forms, candidate dashboards, interview scheduling, email automation, hiring analytics, and GDPR-compliant enterprise security. Plans starting free in ZAR.
+### [Apply44](https://apply44.codecanvas.co.za/) Recruitment SaaS
+> Recruitment software for teams  custom application forms, candidate dashboards, interview scheduling, email automation, hiring analytics, and  enterprise security. Plans starting free in South African Rand .
 
-`Recruitment` `Form Builder` `Candidate Management` `Vercel` `Email Automation` `GDPR`
+`Recruitment` `Form Builder` `Candidate Management` `Vercel` `Email Automation` 
 
 ---
 
-### [CodeCanvas](https://codecanvas.co.za) — Personal Dev Platform
-> My personal development platform and portfolio hub — a living canvas documenting my dev journey, experiments, and projects from Newcastle, KZN.
+### [CodeCanvas](https://codecanvas.co.za)  Personal Dev Platform
+> My personal development platform and portfolio hub  a living canvas documenting my dev journey, experiments, and projects from Newcastle, KZN.
 
 `Portfolio` `Personal Brand` `Web Design` `SA`
 
 ---
 
-### [Eclipse Softworks](https://www.eclipse-softworks.com/) — Software Studio
+### [Eclipse Softworks](https://www.eclipse-softworks.com/)  Software Studio
 > Web development and software solutions under Eclipse Softworks. Building quality software from South Africa for the world.
 
 `Software Dev` `Web Apps` `Professional` `SA Tech`
 
 ---
 
-## 📊 Quick Stats
+##  Quick Stats
 
 | | |
 |---|---|
-| 💻 Years Coding | 3+ |
-| 📦 Projects Shipped | 10+ |
-| 🎓 Studying |  Electrical Engineering |
-| 📍 Based | Newcastle, KwaZulu-Natal, SA |
-| 🏢 Employed | Eclipse Softworks |
+|  Years Coding | 3+ |
+|  Projects Shipped | 10+ |
+|  Studying |  Electrical Engineering |
+|  Based | Newcastle, KwaZulu-Natal, SA |
+|  Employed | Eclipse Softworks |
 
 ---
 
-## 📬 Let's Build Something
+##  Let's Build Something
 
 I'm open to **freelance work**, **collaborations**, and **full-time opportunities**.
 
-- 🌐 [codecanvas.co.za](https://codecanvas.co.za)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cmoke-hleza-583a87304/)
-- 🐦 [X / Twitter](https://x.com/CmokeH78717)
-- 📘 [Facebook](https://www.facebook.com/Hlezarh)
-- 🏢 [Eclipse Softworks](https://www.eclipse-softworks.com/)
+-  [codecanvas.co.za](https://codecanvas.co.za)
+-  [LinkedIn](https://www.linkedin.com/in/cmoke-hleza-583a87304/)
+-  [X / Twitter](https://x.com/CmokeH78717)
+-  [Facebook](https://www.facebook.com/Hlezarh)
+-  [Eclipse Softworks](https://www.eclipse-softworks.com/)
 
 ---
 
