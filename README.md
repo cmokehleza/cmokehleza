@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/codecanvas.co.za-d4ff47?style=flat-square&logo=google-chrome&logoColor=black)](https://codecanvas.co.za)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmoke-hleza-583a87304/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CmokeH78717)
-[![Eclipse Softworks](https://img.shields.io/badge/Eclipse_Softworks-47b8ff?style=flat-square&logoColor=black)](https://www.eclipse-softworks.com/)
+[![Eclipse Softworks](https://img.shields.io/badge/Eclipse_Softworks-47b8ff?style=flat-square&logoColor=black)](https://www.eclipse-softworks.com/profile#/cmokehleza)
 
 ---
 
