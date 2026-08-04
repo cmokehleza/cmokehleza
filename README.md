@@ -10,7 +10,7 @@
 
 ## About
 
-I run **Eclipse Softworks** and build my personal dev platform at **[codecanvas.co.za](https://codecanvas.co.za)**. I'm also studying Electrical Engineering, so I approach software the same way I approach a circuit: understand the constraints first, then build something that holds up under load.
+I work at  **Eclipse Softworks** and build my personal dev platform at **[codecanvas.co.za](https://codecanvas.co.za)**. I'm also studying Electrical Engineering, so I approach software the same way I approach a circuit: understand the constraints first, then build something that holds up under load.
 
 I care about clean architecture, fast load times, and interfaces that feel intentional rather than templated.
 
