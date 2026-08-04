@@ -1,8 +1,6 @@
 <div align="center">
 
-# Cmoke Hleza
-
-Web Developer · Electrical Engineering Student · Newcastle, KwaZulu-Natal, South Africa
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2F2F2F&center=true&vCenter=true&width=600&lines=Cmoke+Hleza;Web+Developer;Electrical+Engineering+Student;Newcastle%2C+South+Africa" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=cmokehleza&color=1a1a1a&style=flat&label=views)
 
@@ -73,3 +71,7 @@ I care about clean architecture, fast load times, and interfaces that feel inten
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://codecanvas.co.za)
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=90&section=footer" />
