@@ -1,140 +1,75 @@
 <div align="center">
 
-# ⌁ CMOKE HLEZA
+# Cmoke Hleza
 
-### `web developer` · `electrical engineering student` · `Newcastle, KZN 🇿🇦`
+Web Developer · Electrical Engineering Student · Newcastle, KwaZulu-Natal, South Africa
 
-*Building at the intersection of circuits and code — where systems thinking meets the browser.*
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=cmokehleza&color=0d1117&style=flat&label=)
+![Profile views](https://komarev.com/ghpvc/?username=cmokehleza&color=1a1a1a&style=flat&label=views)
 
 </div>
 
 <br>
 
-## ⚡ Signal
+## About
 
-I'm a South African developer running **Eclipse Softworks** and building my personal dev platform, **[codecanvas.co.za](https://codecanvas.co.za)**. I'm also studying **Electrical Engineering** — which shows up in how I build: I think in systems, tolerances, and failure modes before I think in components.
+I run **Eclipse Softworks** and build my personal dev platform at **[codecanvas.co.za](https://codecanvas.co.za)**. I'm also studying Electrical Engineering, so I approach software the same way I approach a circuit: understand the constraints first, then build something that holds up under load.
 
-That means the products I ship tend to be:
-
-```
-⏵ fast        — performance isn't an afterthought, it's a spec
-⏵ clean       — code that reads like a well-drawn schematic
-⏵ deliberate  — every decision traceable back to a reason
-```
+I care about clean architecture, fast load times, and interfaces that feel intentional rather than templated.
 
 <br>
 
-## ⌁ Circuit Board
+## Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Frontend**
-<br>
-React · Next.js · Vue<br>
-Angular · TypeScript<br>
-Vite · Tailwind · Bootstrap
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-<br>
-Node · Express · FastAPI<br>
-Laravel · PHP · .NET<br>
-Python · JWT Auth
-
-</td>
-<td valign="top" width="33%">
-
-**Infra & Data**
-<br>
-Firebase · Supabase<br>
-GCP · Cloudflare · Vercel<br>
-Redis · SQLite · Nginx
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Mobile**
-<br>
-React Native · Expo · Flutter
-
-</td>
-<td valign="top">
-
-**Design**
-<br>
-Figma · Photoshop · After Effects<br>
-Adobe Suite · Affinity Designer
-
-</td>
-<td valign="top">
-
-**Hardware/ML**
-<br>
-Arduino · PyTorch · CMake
-
-</td>
-</tr>
-</table>
+| Layer | Tools |
+|---|---|
+| Frontend | React, Next.js, Vue, Angular, TypeScript, Vite, Tailwind, Bootstrap |
+| Backend | Node.js, Express, FastAPI, Laravel, PHP, .NET, Python |
+| Data & Infra | Firebase, Supabase, Google Cloud, Cloudflare, Vercel, Netlify, Redis, SQLite, Nginx |
+| Mobile | React Native, Expo, Flutter |
+| Design | Figma, Photoshop, After Effects, Adobe InDesign, Affinity Designer |
+| Hardware & ML | Arduino, PyTorch, CMake |
 
 <br>
 
-## ⌁ Live Telemetry
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=cmokehleza&theme=radical&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cmokehleza&theme=radical&hide_border=true&layout=compact&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api?username=cmokehleza&theme=default&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cmokehleza&theme=default&hide_border=true&layout=compact" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=cmokehleza&theme=radical&hide_border=true&background=0d1117" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=cmokehleza&theme=default&hide_border=true" width="70%"/>
 
 </div>
 
 <details>
-<summary><b>⌁ Expand: Trophy Case</b></summary>
+<summary>Trophy case</summary>
 <br>
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=cmokehleza&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cmokehleza&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 </details>
 
 <details>
-<summary><b>⌁ Expand: Top Contributed Repo</b></summary>
+<summary>Top contributed repo</summary>
 <br>
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=cmokehleza&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=cmokehleza&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 </div>
 </details>
 
 <br>
 
-## ⌁ Connect
+## Contact
 
 <div align="center">
 
-[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Cmoke_Hleza)
-[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:cmokehleza@gmail.com)
-[![Portfolio](https://img.shields.io/badge/codecanvas.co.za-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://codecanvas.co.za)
-
-</div>
-
-<br>
-
-<div align="center">
-
-*"Ohm's Law works the same in a circuit as it does in a codebase — resistance somewhere, current somewhere else."*
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@Cmoke_Hleza)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cmokehleza@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://codecanvas.co.za)
 
 </div>
