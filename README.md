@@ -23,8 +23,6 @@ I care deeply about clean architecture, fast load times, and interfaces that fee
 | Layer | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Vue, Angular, TypeScript, Vite, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express, FastAPI, Laravel, PHP, .NET, Python |
-| **Data & Cloud** | Firebase, Supabase, Google Cloud, Cloudflare, Vercel, Netlify, Redis, SQLite, Nginx |
 | **Mobile** | React Native, Expo, Flutter |
 | **Design** | Figma, Photoshop, After Effects, Adobe InDesign, Affinity Designer |
 | **Hardware & ML** | Arduino, PyTorch, CMake |
